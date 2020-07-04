@@ -1,0 +1,47 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.p{
+	margin-top: 7%;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+.navc{
+	background:black;
+	color: white;
+	padding-right: 10px;
+	font-size: 19px;
+}
+.jobs{
+	margin: 1% 10%;
+	padding-left: 15px;
+	background:#ffc400;
+}
+.jobpost{
+	text-align: center;
+}
+.fc{
+	height: 150px;
+	font-size: 22px;
+	color: white; 
+	text-align: center;
+	background:#0099ff;
+
+}
+.fg{
+	margin: 7% 10%;
+	padding: 15px;
+	background:#33CC00;
+	color: black;
+}
+@media (max-width:680px){
+	.fg{
+		margin: 15% 10%;
+	}
+	.p{
+		margin-top: 15%;
+	}
+
+}
